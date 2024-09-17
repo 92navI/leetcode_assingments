@@ -1,8 +1,6 @@
-package com.navi92.TwoSum;
+package com.navi92.P2_TwoSum;
 
 import java.util.concurrent.atomic.AtomicIntegerArray;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class Solution {
