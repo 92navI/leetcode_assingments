@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "com.navi92.P5_LongestPalindromicSubstring.Main",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "com.navi92.TwoSum.Main",
             "projectName": "leetcode"
         },
