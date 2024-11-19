@@ -1,7 +1,5 @@
 package com.navi92.P5_LongestPalindromicSubstring;
 
-import java.util.Arrays;
-
 public class Solution {
     public String longestPalindrome(String s) {
         int b_start = 0;
