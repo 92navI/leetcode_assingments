@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         var sol = new Solution();
 
-        var input = "0-1";
+        var input = "-91283472332";
 
         System.out.println(sol.myAtoi(input));
     }
