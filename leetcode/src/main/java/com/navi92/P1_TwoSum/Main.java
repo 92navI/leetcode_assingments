@@ -1,4 +1,4 @@
-package com.navi92.P2_TwoSum;
+package com.navi92.P1_TwoSum;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.navi92.P1_AddTwoNumbers;
+package com.navi92.P19_RemoveNthNodeFromEndOfList;
 
 public class ListNode {
     int val;
@@ -19,7 +19,7 @@ public class ListNode {
     @Override
     public String toString() {
         if (next != null) {
-            return "{" + val + ", " + next.toString() + "}";
+            return "{" + val + ", " + next + "}";
         } else {
             return "{" + val + "}";
         }

@@ -1,4 +1,4 @@
-package com.navi92.P1_AddTwoNumbers;
+package com.navi92.P2_AddTwoNumbers;
 
 import java.util.Objects;
 
