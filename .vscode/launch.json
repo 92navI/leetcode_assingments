@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "com.navi92.test.Main",
+            "projectName": "leetcode"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "com.navi92.P8_StringToIntegerAtoi.Main",
             "projectName": "leetcode"
         },
